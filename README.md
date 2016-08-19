@@ -1,2 +1,2 @@
 # pickaty-blog
-Files for http://pickaty
+Files for http://pickaty.ru
