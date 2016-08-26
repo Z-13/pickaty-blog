@@ -617,7 +617,8 @@ display: none;
 /*** Navigation ***/
 /********************************/
 #navigation {
-background:#f6f6f6;
+/*background:#f6f6f6;*/
+background: rgba(246, 246, 246, 0.9);
 height:48px;
 position:fixed;
 z-index: 99999;
