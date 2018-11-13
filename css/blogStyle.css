@@ -360,6 +360,7 @@ margin-right:0;
 .cloud-label-widget-content .label-size a{  
 	background: #fff;
 	color: #9bd3ae;
+	font-weight: 600;
 	float: left;
 	border: 1px solid #9bd3ae;
 	font-size: 10px;
@@ -1607,6 +1608,7 @@ p.wp-caption-text {
 .post-entry h2 a {
 	font-family: 'markella', sans-serif;
 	text-transform: uppercase;
+	font-weight: 400;
 }
 
 .post-tags {
