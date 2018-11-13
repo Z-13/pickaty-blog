@@ -603,10 +603,11 @@ display: none;
 }
 
 .post-heading .cat a {
-    color: #9bd3ae;
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
+    	color: #9bd3ae;
+    	font-size: 11px;
+	font-weight: 600;
+    	text-transform: uppercase;
+    	letter-spacing: 1px;
 }
 
 .post-heading .cat a:hover {
@@ -617,8 +618,8 @@ display: none;
 /*** Navigation ***/
 /********************************/
 #navigation {
-/*background:#f6f6f6;*/
-background: rgba(246, 246, 246, 0.9);
+background:#f9f9f9;
+/* background: rgba(246, 246, 246, 0.9); */
 height:48px;
 position:fixed;
 z-index: 99999;
@@ -642,8 +643,8 @@ position:relative;
 .menu li a {
 font-family: 'Open Sans', sans-serif;
 font-size:11px;
-font-weight:400;
-letter-spacing:2px;
+font-weight:600;
+letter-spacing:1px;
 color:#444444;
 line-height:48px;
 text-transform:uppercase;
@@ -2055,7 +2056,7 @@ p.wp-caption-text {
 		width:726px;
 	}
 	
-	#navigation-wrapper {
+	-wrapper {
 		display:none;
 	}
 	
@@ -2809,12 +2810,13 @@ letter-spacing: 1px;
 		font-size:11px;
 		text-transform:uppercase;
 		letter-spacing:2px;
+		font-weight: 700;
 		color:#9bd3ae;
 		background:#ffffff;
 		display:inline-block;
 		/*margin-top:16px;*/
 		padding:9px 24px 7px;
-		border:1px solid;
+		border:2px solid;
 		border-color:#9bd3ae;
 		-o-transition:.2s;
 		-ms-transition:.2s;
@@ -2824,7 +2826,7 @@ letter-spacing: 1px;
 	.more-button:hover {
 		background:#9bd3ae;
 		color:#fff;
-		border:1px solid;
+		border:2px solid;
 		border-color:#9bd3ae;
 	}
 
